@@ -1,0 +1,18 @@
+{
+  "name": "flexbox-froggy-notebook",
+  "version": "0.0.0",
+  "description": "Solution list for flexboxfroggy play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flexboxfroggy",
+    "cypress",
+    "javascript",
+    "typescript",
+    "e2e"
+  ],
+  "author": "kuzanatoliy <njkznu@gmail.com>",
+  "license": "MIT"
+}
