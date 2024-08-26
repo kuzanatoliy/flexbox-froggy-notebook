@@ -4,7 +4,8 @@
   "description": "Solution list for flexboxfroggy play",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commitlint": "commitlint --edit"
   },
   "keywords": [
     "flexboxfroggy",
@@ -14,5 +15,11 @@
     "e2e"
   ],
   "author": "kuzanatoliy <njkznu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^19.4.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@kuzanatoliorg/commitlint-config": "^1.2.0",
+    "husky": "^9.1.5"
+  }
 }
