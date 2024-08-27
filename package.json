@@ -4,6 +4,7 @@
   "description": "Solution list for flexboxfroggy play",
   "main": "index.js",
   "scripts": {
+    "cy:open": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1",
     "commitlint": "commitlint --edit"
   },
@@ -20,6 +21,7 @@
     "@commitlint/cli": "^19.4.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@kuzanatoliorg/commitlint-config": "^1.2.0",
+    "cypress": "^13.14.0",
     "husky": "^9.1.5"
   }
 }
