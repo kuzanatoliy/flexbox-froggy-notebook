@@ -33,3 +33,7 @@
 ### Level 8
 
     flex-direction: row-reverse;
+
+### Level 9
+
+    flex-direction: column;
