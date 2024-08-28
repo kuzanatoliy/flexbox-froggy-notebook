@@ -19,3 +19,8 @@
 ### Level 5
 
     align-items: flex-end;
+
+### Level 6
+
+    justify-content: center;
+    align-items: center;
