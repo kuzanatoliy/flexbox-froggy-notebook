@@ -24,3 +24,8 @@
 
     justify-content: center;
     align-items: center;
+
+### Level 7
+
+    justify-content: space-around;
+    align-items: flex-end;
