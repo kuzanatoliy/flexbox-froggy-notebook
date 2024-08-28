@@ -79,3 +79,8 @@
 ### Level 18
 
     flex-wrap: wrap;
+
+### Level 19
+
+    flex-wrap: wrap;
+    flex-direction: column;
