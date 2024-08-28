@@ -84,3 +84,7 @@
 
     flex-wrap: wrap;
     flex-direction: column;
+
+### Level 20
+
+    flex-flow: column wrap;
