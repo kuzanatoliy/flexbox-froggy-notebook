@@ -26,7 +26,8 @@
     "@commitlint/config-conventional": "^19.2.2",
     "@kuzanatoliorg/commitlint-config": "^1.2.0",
     "cypress": "^13.14.0",
-    "husky": "^9.1.5"
+    "husky": "^9.1.5",
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "@kuzanatoliorg/prettier-config": "^1.12.0",
