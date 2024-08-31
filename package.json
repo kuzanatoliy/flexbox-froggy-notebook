@@ -25,18 +25,16 @@
     "@commitlint/cli": "^19.4.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@kuzanatoliorg/commitlint-config": "^1.2.0",
-    "cypress": "^13.14.0",
-    "husky": "^9.1.5",
-    "typescript": "^5.5.4"
-  },
-  "dependencies": {
     "@kuzanatoliorg/prettier-config": "^1.12.0",
     "@typescript-eslint/eslint-plugin": "^8.3.0",
     "@typescript-eslint/parser": "^8.3.0",
+    "cypress": "^13.14.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-cypress": "^3.5.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "prettier": "^3.3.3"
+    "husky": "^9.1.5",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
   }
 }
