@@ -1,6 +1,6 @@
 {
   "name": "flexbox-froggy-notebook",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Solution list for flexboxfroggy play",
   "main": "index.js",
   "scripts": {
