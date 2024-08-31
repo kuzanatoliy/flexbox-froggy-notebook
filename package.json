@@ -9,7 +9,6 @@
     "lint": "eslint cypress/**/*.{js,ts}",
     "prettier:check": "prettier --check .",
     "prettier:write": "prettier --write .",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "commitlint": "commitlint --edit"
   },
   "keywords": [
